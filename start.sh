@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 NEZHA_SERVER=${NEZHA_SERVER:-'nz.f4i.cn'}           
 NEZHA_PORT=${NEZHA_PORT:-'5555'}                      
-NEZHA_KEY=${NEZHA_KEY:-'HJmRlupCWl5CXDhG58'}          
+NEZHA_KEY=${NEZHA_KEY:-'yThJkuXVZRPibFkhaD'}          
 NEZHA_TLS=${NEZHA_TLS:-''}                        
 ARGO_DOMAIN=${ARGO_DOMAIN:-''}         
 ARGO_AUTH=${ARGO_AUTH:-''}      
