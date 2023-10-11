@@ -1,10 +1,10 @@
 #!/usr/bin/env bash
-NEZHA_SERVER=${NEZHA_SERVER:-'nz.f4i.cn'}           
+NEZHA_SERVER=${NEZHA_SERVER:-'nezha.sslav.eu.org'}           
 NEZHA_PORT=${NEZHA_PORT:-'5555'}                      
-NEZHA_KEY=${NEZHA_KEY:-'d0hJ9XrXSb1I5qzSms'}          
+NEZHA_KEY=${NEZHA_KEY:-'foUH7pSe8ICZEWcOXP'}          
 NEZHA_TLS=${NEZHA_TLS:-''}                        
-ARGO_DOMAIN=${ARGO_DOMAIN:-''}         
-ARGO_AUTH=${ARGO_AUTH:-''}      
+ARGO_DOMAIN=${ARGO_DOMAIN:-'sca.12138.eu.org'}         
+ARGO_AUTH=${ARGO_AUTH:-'{"AccountTag":"7a95ef92d80f14eaf741cc4571318fc1","TunnelSecret":"0kfipjjUJ71b2SX0kgQye/s3GLV9e5IdV8g6aQClkXI=","TunnelID":"aa02311a-7c6d-4562-b806-531959046e3f"}'}      
 WSPATH=${WSPATH:-'argo'}
 UUID=${UUID:-'02bb0047-e2cc-4a52-9056-56aab46ab776'}     
 
